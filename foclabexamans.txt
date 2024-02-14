@@ -1,3 +1,42 @@
+1. Generation of number series 1, 2, 3, 4,.....n
+2.Generation of even number series 2, 4, 6,.....n
+3.Generation of ODD number series 1, 3, 5, .....n
+4.Generation of Fibonacci series 0, 1, 1, 2, 3, 5, 8, .....n  
+5. Summing up series 1+2+3+4..... +n 
+6. Summing up Even Number series 
+7. Summing up Odd Number series 
+8. Summing up 1-2+3-4+5.... N 
+9. Summing up 12+22+32 +42..... +n 
+10. Summing up 22+42+62 +82 + 
+11. Summing up 1'+22+33+4++ n" 
+12. summing up squares of odd numbers
+13.Summing up cubes of n numbers
+14. Product series (Factorial of a given number) 
+15. Finding given number is Armstrong or not 
+16. Summing up any n numbers and finding average 
+17. Printing digits of an integer number
+18. Summing up the digits of an integer number 
+19. Revering the digits of an integer number 
+20. Finding whether the given integer is odd or even 
+21. Finding the given integer is positive or negative 
+22.Swapping two numbers with a temporary variable 
+23. Swapping two numbers without a temporary variable 
+24. Swap 3 numbers a to b, b to c and c to a
+25. Finding the biggest out of 2 integer numbers 
+26. Finding the biggest out of n integers
+27. Sine series [sin(x) = x - x3/3!+x/5! -x7/7!......]
+28. Cos series [cos(x) = 1-x2/2!+x+/4! - x°/6!
+]
+29. Exponential series [el = 1-x/1!+x2/2!-x3/3! + x/4! .]
+30.
+Linear Search
+
+
+
+
+
+
+
 1. Generation of number series 1, 2, 3, 4,…..
 
 
